@@ -1,16 +1,78 @@
-### Hi there 👋
-
 <!--
-**BlackWolfWoof/BlackWolfWoof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Ah hello and welcome to my profile :)
+You can do the same for your github profile by creating a repository with the name of your account. Thanks for stopping by :)
 -->
+
+# Hello there stranger 👋
+
+## Who am I?
+
+My online name is Black Wolf, I am male, was born in back in 2002 in Germany and I identify as non-binary. Oh yea, and I am a human 😂
+
+---
+
+## What do I do in my free time?
+
+I love drawing anthropomorphic creatures, playing games such as Minecraft or osu!, coding [custom commands](https://github.com/BlackWolfWoof/yagpdb-cc) for the [YAGPDB Discord bot](https://yagpdb.xyz/) or just chilling on Discord and writing on a few servers.
+
+---
+
+## More about me
+
+<details>
+<summary>Name history</summary>
+
+Year|Name|Nickname|Reason why I changed it
+-|-|-|-
+**2021**|`Black Wolf`|Wolf, Black, BlackWolfWoof, BlackWolfAwooo|I am a furry now I guess 🐺
+**2019**|`TheHDCrafter`|Crafter, HD, HDCrafter|The _YT at the end was too cringe
+**2016**|`TheHDCrafter_YT`|Crafter, HD, HDCrafter|I added _YT because I started a YouTube channel
+**2013**|`TheHDCrafter`|Crafter|Because I didn't like the old name
+**2012**|`HDCrafter`|Crafter|The name I came up with when I first joined a Minecraft chat form with [Disqus](https://www.startpage.com/do/dsearch?query=Disqus 'What is Disqus?')
+</details>
+
+
+<details>
+<summary>Social Media</summary>
+
+<a name="Discord"></a>
+Platform|Name|Link to profile|Active
+-|-|-|-
+**Discord**|`Black Wolf#0001`|[Server](https://discord.gg/GRns3fg)|✅
+**YouTube**|`BlackWolfWoof`|[Link](https://www.youtube.com/BlackWolfWoof)|✅
+**Twitter**|`Black Wolf` (TheHDCrafter_YT)|[Link](https://twitter.com/TheHDCrafter_YT)|✅
+**Twitch**|`blackwolfwoof`|[Link](https://www.twitch.tv/blackwolfwoof)|❌
+**Reddit**|`TheHDCrafter_YT`|[Link](https://www.reddit.com/u/TheHDCrafter_YT)|❌
+**Steam**|`Black Wolf`|[Link](https://steamcommunity.com/profiles/76561199075878744)|❌
+**Disqus**|`HDCrafter`||❌
+**Xbox Live**|`TheHDCrafterYT`||✅
+**Minecraft**|`TheHDCrafter_YT`||❌
+**osu!**|`TheHDCrafter`|[Link](https://osu.ppy.sh/users/16069717)|✅
+**Deviantart**|`BlackWolfWoof`|[Link](https://www.deviantart.com/blackwolfwoof)|❌
+**Furaffinity**|`BlackWolfWoof`|[Link](https://www.furaffinity.net/user/blackwolfwoof/)|✅
+**Google Site**||[Website](https://sites.google.com/site/thehdcraftergaming/)|❌
+
+</details>
+
+
+<details>
+<summary>My fursona (furry persona)</summary>
+
+- **Name:** Black Wolf  
+- **Species:** Wolf  
+- **Subspecies:** Eurasian wolf  
+- **Gender:** Male  
+- **Personality:** A friendly wolf that likes to lead and help everyone reach their goals. He is open and welcome to new people and likes to come in contact with everyone.
+Patting and cuddling is always allowed and welcome.
+- **About:** This fursona is a representation of my real me and also of the one I'd like to be. It can vary and change over time as it represents myself.
+I chose the species & name because my real name starts with 'Wolf'. I also like the darkness & the color black and thats why I decided to also include that in my name to make it more unique.  
+- **Pic:**  
+<img src="https://cdn.discordapp.com/attachments/650634380049645583/845747867779072000/BlackWolf.png" alt="drawing" width="250"/>
+
+</details>
+
+---
+
+## How can I contact you?
+
+You can send me a direct message on [discord](#more-about-me "Look at \'Social Media\' for my Discord name + tag"), send me a YouTube comment or shoot me an email to `TheHDCrafterGaming@gmail.com`.
