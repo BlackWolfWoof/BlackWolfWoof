@@ -24,8 +24,8 @@ I love drawing anthropomorphic creatures, playing games such as Minecraft or osu
 
 Year|Name|Nickname|Reason why I changed it
 -|-|-|-
-**2021**|`Black Wolf`|Wolf, Black, BlackWolfWoof, BlackWolfAwooo|I am a furry now I guess 🐺
-**2019**|`TheHDCrafter`|Crafter, HD, HDCrafter|The _YT at the end was too cringe
+**2021**|`Black Wolf`|Wolf, Black, BlackWolfWoof, BlackWolfAwooo, Wolfie|I am a furry now I guess 🐺
+**2019**|`TheHDCrafter`|Crafter, HD, HDCrafter, Wolfie|The _YT at the end was too cringe
 **2016**|`TheHDCrafter_YT`|Crafter, HD, HDCrafter|I added _YT because I started a YouTube channel
 **2013**|`TheHDCrafter`|Crafter|Because I didn't like the old name
 **2012**|`HDCrafter`|Crafter|The name I came up with when I first joined a Minecraft chat form with [Disqus](https://www.startpage.com/do/dsearch?query=Disqus 'What is Disqus?')
