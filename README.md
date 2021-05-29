@@ -77,7 +77,7 @@ I chose the species & name because my real name starts with 'Wolf'. I also like 
 <details>
 <summary>Some github stats</summary>
 
-![Staaaaaaaaaaats](https://github-readme-stats.vercel.app/api?username=BlackWolfWoof&bg_color=-25,151515,151515&title_color=fff&text_color=fff&show_icons=true&icon_color=e74c3c)
+![Staaaaaaaaaaats](https://github-readme-stats.vercel.app/api?username=BlackWolfWoof&bg_color=-25,151515,151515&title_color=fff&text_color=fff&show_icons=true&icon_color=e74c3c)  
 Github stats made with [Anurag's GitHub stats](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
