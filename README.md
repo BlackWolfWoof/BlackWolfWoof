@@ -15,6 +15,9 @@ My online name is Black Wolf, I am male, was born in back in 2002 in Germany and
 
 I love drawing anthropomorphic creatures, playing games such as Minecraft or osu!, coding [custom commands](https://github.com/BlackWolfWoof/yagpdb-cc) for the [YAGPDB Discord bot](https://yagpdb.xyz/) or just chilling on Discord and writing on a few servers.
 
+### YAGPDB Custom commands repository
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlackWolfWoof&repo=yagpdb-cc&icon_color=e74c3c&bg_color=151515&text_color=fff)](https://github.com/BlackWolfWoof/yagpdb-cc)
+
 ---
 
 ## More about me
@@ -68,6 +71,14 @@ Patting and cuddling is always allowed and welcome.
 I chose the species & name because my real name starts with 'Wolf'. I also like the darkness & the color black and thats why I decided to also include that in my name to make it more unique.  
 - **Pic:**  
 <img src="https://cdn.discordapp.com/attachments/650634380049645583/845747867779072000/BlackWolf.png" alt="drawing" width="250"/>
+
+</details>
+
+<details>
+<summary>Some github stats</summary>
+
+![Staaaaaaaaaaats](https://github-readme-stats.vercel.app/api?username=BlackWolfWoof&bg_color=-25,151515,151515&title_color=fff&text_color=fff&show_icons=true&icon_color=e74c3c)
+Github stats made with [Anurag's GitHub stats](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
