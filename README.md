@@ -7,7 +7,7 @@ You can do the same for your github profile by creating a repository with the na
 
 ## Who am I?
 
-My online name is Black Wolf, I am male, was born in back in 2002 in Germany and I identify as non-binary. Oh yea, and I am a human 😂
+My online name is Black Wolf, I am male, was born in back in 2002 in Germany and I identify as asexual. Oh yea, and I am a human 😂
 
 ---
 
