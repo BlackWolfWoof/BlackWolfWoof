@@ -42,7 +42,7 @@ Year|Name|Nickname|Reason why I changed it
 Platform|Name|Link to profile|Active
 -|-|-|-
 **Discord**|`Black Wolf#0001`|[Server](https://discord.gg/GRns3fg)|✅
-**YouTube**|`BlackWolfWoof`|[Link](https://www.youtube.com/BlackWolfWoof)|✅
+**YouTube**|`Black Wolf`|[Link](https://www.youtube.com/BlackWolfWoof)|✅
 **Twitter**|`Black Wolf` (BlackWolfWoof)|[Link](https://twitter.com/BlackWolfWoof)|✅
 **Twitch**|`blackwolfwoof`|[Link](https://www.twitch.tv/blackwolfwoof)|❌
 **Reddit**|`TheHDCrafter_YT`|[Link](https://www.reddit.com/u/TheHDCrafter_YT)|❌
@@ -50,7 +50,7 @@ Platform|Name|Link to profile|Active
 **Disqus**|`HDCrafter`||❌
 **Xbox Live**|`TheHDCrafterYT`||✅
 **Minecraft**|`TheHDCrafter_YT`||❌
-**osu!**|`TheHDCrafter`|[Link](https://osu.ppy.sh/users/16069717)|✅
+**osu!**|`TheHDCrafter`|[Link](https://osu.ppy.sh/users/16069717)|❌
 **Deviantart**|`BlackWolfWoof`|[Link](https://www.deviantart.com/blackwolfwoof)|❌
 **Furaffinity**|`BlackWolfWoof`|[Link](https://www.furaffinity.net/user/blackwolfwoof/)|✅
 **Google Site**||[Website](https://sites.google.com/site/thehdcraftergaming/)|❌
