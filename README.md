@@ -36,7 +36,7 @@ Year|Name|Nickname|Reason why I changed it
 
 
 <details>
-<summary>Social Media</summary>
+<summary>Social media</summary>
 
 <a name="Discord"></a>
 Platform|Name|Link to profile|Active
@@ -75,7 +75,7 @@ I chose the species & name because my real name starts with 'Wolf'. I also like 
 </details>
 
 <details>
-<summary>Some github stats</summary>
+<summary>GitHub stats</summary>
 
 ![Staaaaaaaaaaats](https://github-readme-stats.vercel.app/api?username=BlackWolfWoof&bg_color=-25,151515,151515&title_color=fff&text_color=fff&show_icons=true&icon_color=e74c3c)  
 Github stats made with [Anurag's GitHub stats](https://github.com/anuraghazra/github-readme-stats)
@@ -86,4 +86,4 @@ Github stats made with [Anurag's GitHub stats](https://github.com/anuraghazra/gi
 
 ## How can I contact you?
 
-You can send me a direct message on [discord](#more-about-me "Look at \'Social Media\' for my Discord name + tag"), send me a YouTube comment or shoot me an email to `TheHDCrafterGaming@gmail.com`.
+You can send me a direct message on [discord](#more-about-me "Look at \'Social media\' for my Discord name + tag"), send me a YouTube comment or shoot me an email to `TheHDCrafterGaming@gmail.com`.
