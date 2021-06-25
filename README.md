@@ -3,6 +3,10 @@ Ah hello and welcome to my profile :)
 You can do the same for your github profile by creating a repository with the name of your account. Thanks for stopping by :)
 -->
 
+<style>
+td {border:none}
+</style>
+
 # Hello there stranger 👋
 
 ## Who am I?
@@ -60,10 +64,6 @@ Platform|Name|Link to profile|Active
 
 <details>
 <summary>My fursona (furry persona)</summary>
-
-<style>
-td {border:none}
-</style>
 
 <table>
 	<tr>
