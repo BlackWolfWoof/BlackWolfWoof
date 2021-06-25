@@ -36,7 +36,7 @@ Year|Name|Nickname|Reason why I changed it
 
 
 <details>
-<summary>Social media</summary>
+<summary>Social Media</summary>
 
 <a name="Discord"></a>
 Platform|Name|Link to profile|Active
@@ -61,13 +61,21 @@ Platform|Name|Link to profile|Active
 <details>
 <summary>My fursona (furry persona)</summary>
 
-
-
+- **Name:** Black Wolf  
+- **Species:** Wolf  
+- **Subspecies:** Eurasian wolf  
+- **Gender:** Male  
+- **Personality:** A friendly wolf that likes to lead and help everyone reach their goals. He is open and welcome to new people and likes to come in contact with everyone.
+Patting and cuddling is always allowed and welcome.
+- **About:** This fursona is a representation of my real me and also of the one I'd like to be. It can vary and change over time as it represents myself.
+I chose the species & name because my real name starts with 'Wolf'. I also like the darkness & the color black and thats why I decided to also include that in my name to make it more unique.  
+- **Pic:**  
+<img src="https://cdn.discordapp.com/attachments/650634380049645583/845747867779072000/BlackWolf.png" alt="drawing" width="250"/>
 
 </details>
 
 <details>
-<summary>GitHub stats</summary>
+<summary>Some github stats</summary>
 
 ![Staaaaaaaaaaats](https://github-readme-stats.vercel.app/api?username=BlackWolfWoof&bg_color=-25,151515,151515&title_color=fff&text_color=fff&show_icons=true&icon_color=e74c3c)  
 Github stats made with [Anurag's GitHub stats](https://github.com/anuraghazra/github-readme-stats)
@@ -79,18 +87,3 @@ Github stats made with [Anurag's GitHub stats](https://github.com/anuraghazra/gi
 ## How can I contact you?
 
 You can send me a direct message on [discord](#more-about-me "Look at \'Social Media\' for my Discord name + tag"), send me a YouTube comment or shoot me an email to `TheHDCrafterGaming@gmail.com`.
-
-
-
-<p><img  style="float: left;" src="https://cdn.discordapp.com/attachments/650634380049645583/845747867779072000/BlackWolf.png" alt="drawing" height="250" /><li>**Name:** Black Wolf </li></p>
-
-
-- 
-- **Species:** Wolf  
-- **Subspecies:** Eurasian wolf  
-- **Gender:** Male  
-- **Personality:** A friendly wolf that likes to help everyone to reach their goals. He is open and welcome to new people and likes to come in contact with everyone.
-Patting and cuddling is always allowed.
-- **About:** This fursona is a representation of my real me and also of the one I'd like to be. It can vary and change over time as it represents myself.
-I chose the species & name because my real name starts with 'Wolf'. I also like the darkness & the color black and thats why I decided to also include that in my name to make it more unique.  
-- **Pic:** 
