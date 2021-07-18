@@ -49,7 +49,7 @@ Platform|Name|Link to profile|Active
 **Steam**|`Black Wolf`|[Profile](https://steamcommunity.com/profiles/76561199075878744)|❌
 **Disqus**|`HDCrafter`||❌
 **Coub**|`Black Wolf` (BlackWolfWoof)|[Profile](https://coub.com/blackwolfwoof)|✅
-**Xbox Live**|`TheHDCrafterYT`||✅
+**Xbox Live**|`TheHDCrafterYT`|[Profile](https://account.xbox.com/en-US/Profile?gamerTag=TheHDCrafterYT)|✅
 **Minecraft**|`TheHDCrafter_YT`||❌
 **osu!**|`TheHDCrafter`|[Profile](https://osu.ppy.sh/users/16069717)|❌
 **Deviantart**|`BlackWolfWoof`|[Profile](https://www.deviantart.com/blackwolfwoof)|❌
