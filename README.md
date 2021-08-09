@@ -67,7 +67,7 @@ Platform|Name|Link to profile|Active
 - **Subspecies:** Eurasian wolf  
 - **Gender:** None  
 - **Personality:** A friendly wolf that likes to help everyone reach their goals. He is open and welcome to new people and likes to come in contact with everyone.
-Patting and cuddling is always allowed and welcome. Bites bad people and protects :3
+Hugging and cuddling is always allowed. He also bites bad people and protects others :3
 - **About:** This fursona is a representation of my real me and also of the one I'd like to be. It can vary and change over time as it represents myself.
 I chose the species & name because my real name starts with 'Wolf'. I also like the darkness & the color black and thats why I decided to also include that in my name to make it more unique.  
 - **Pic:**  
