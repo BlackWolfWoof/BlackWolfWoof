@@ -24,7 +24,7 @@ I love drawing anthropomorphic creatures, playing games such as Minecraft or osu
 
 <details>
 <summary>Name history</summary>
-
+f
 Year|Name|Nickname|Reason why I changed it
 ---|---|---|---
 **2021**|`Black Wolf`|Wolf, Black, BlackWolfWoof, BlackWolfAwooo, Wolfie|I am a furry now I guess 🐺
