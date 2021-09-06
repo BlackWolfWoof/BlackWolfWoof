@@ -39,8 +39,8 @@ Year|Name|Nickname|Reason why I changed it
 <summary>Social media</summary>
 
 <a name="Discord"></a>
-Platform|Name|Link to profile|Active
--|-|-|-
+Platform|Name|Link to profile|Active  
+-|-|-|-  
 **Discord**|`Black Wolf#0001`|[Server](https://discord.gg/GRns3fg)|✅
 **YouTube**|`Black Wolf`|[Channel](https://www.youtube.com/BlackWolfWoof)|✅
 **Twitter**|`Black Wolf` (BlackWolfWoof)|[Profile](https://twitter.com/BlackWolfWoof)|✅
