@@ -39,7 +39,7 @@ Year|Name|Nickname|Reason why I changed it
 <summary>Social media</summary>
 
 <a name="Discord"></a>
-f
+
 Platform|Name|Link to profile|Active  
 ---|---|---|---  
 **Discord**|`Black Wolf#0001`|[Server](https://discord.gg/GRns3fg)|✅
