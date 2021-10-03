@@ -47,16 +47,16 @@ Platform|Name|Link to profile|Active
 **Twitter**|`Black Wolf` (BlackWolfWoof)|[Profile](https://twitter.com/BlackWolfWoof)|✅
 **Twitch**|`blackwolfwoof`|[Channel](https://www.twitch.tv/blackwolfwoof)|❌
 **Reddit**|`TheHDCrafter_YT`|[Profile](https://www.reddit.com/u/TheHDCrafter_YT)|❌
-**Steam**|`Black Wolf`|[Profile](https://steamcommunity.com/profiles/76561199075878744)|❌
+**Steam**|`Black Wolf`|[Profile](https://steamcommunity.com/profiles/76561199075878744)|✅
 **Disqus**|`HDCrafter`||❌
-**Coub**|`Black Wolf` (BlackWolfWoof)|[Profile](https://coub.com/blackwolfwoof)|✅
-**Xbox Live**|`TheHDCrafterYT`|[Profile](https://account.xbox.com/en-US/Profile?gamerTag=TheHDCrafterYT)|✅
+**Coub**|`Black Wolf` (BlackWolfWoof)|[Profile](https://coub.com/blackwolfwoof)|❌
+**Xbox Live**|`TheHDCrafterYT`|[Profile](https://account.xbox.com/en-US/Profile?gamerTag=TheHDCrafterYT)|❌
 **Minecraft**|`TheHDCrafter_YT`||❌
-**osu!**|`TheHDCrafter`|[Profile](https://osu.ppy.sh/users/16069717)|❌
+**osu!**|`TheHDCrafter`|[Profile](https://osu.ppy.sh/users/16069717)|✅
 **Deviantart**|`BlackWolfWoof`|[Profile](https://www.deviantart.com/blackwolfwoof)|❌
 **Furaffinity**|`BlackWolfWoof`|[Profile](https://www.furaffinity.net/user/blackwolfwoof/)|✅
 **Google Site**||[Website](https://sites.google.com/site/thehdcraftergaming/)|❌
-
+**VRChat**|`BlackWolfWoof`|[Profile](https://vrchat.com/home/user/usr_bd2c6961-00a7-474c-a8d4-cd3cac8d7a2d)✅
 </details>
 
 
