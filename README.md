@@ -57,6 +57,7 @@ Platform|Name|Link to profile|Active
 **Furaffinity**|`BlackWolfWoof`|[Profile](https://www.furaffinity.net/user/blackwolfwoof/)|✅
 **Google Site**||[Website](https://sites.google.com/site/thehdcraftergaming/)|❌
 **VRChat**|`BlackWolfWoof`|[Profile](https://vrchat.com/home/user/usr_bd2c6961-00a7-474c-a8d4-cd3cac8d7a2d)|✅
+**Pinterest**|`Black Wolf` (BlackWolfWoof)|[Profile](https://www.pinterest.de/BlackWolfWoof/)|✅
 </details>
 
 
