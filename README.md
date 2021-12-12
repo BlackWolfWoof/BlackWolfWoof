@@ -52,7 +52,7 @@ Platform|Name|Link to profile|Active
 **Coub**|`Black Wolf` (BlackWolfWoof)|[Profile](https://coub.com/blackwolfwoof)|❌
 **Xbox Live**|`TheHDCrafterYT`|[Profile](https://account.xbox.com/en-US/Profile?gamerTag=TheHDCrafterYT)|❌
 **Minecraft**|`TheHDCrafter_YT`||❌
-**osu!**|`TheHDCrafter`|[Profile](https://osu.ppy.sh/users/16069717)|✅
+**osu!**|`TheHDCrafter`|[Profile](https://osu.ppy.sh/users/16069717)|❌
 **Deviantart**|`BlackWolfWoof`|[Profile](https://www.deviantart.com/blackwolfwoof)|❌
 **Furaffinity**|`BlackWolfWoof`|[Profile](https://www.furaffinity.net/user/blackwolfwoof/)|✅
 **Google Site**||[Website](https://sites.google.com/site/thehdcraftergaming/)|❌
@@ -90,4 +90,6 @@ Github stats made with [Anurag's GitHub stats](https://github.com/anuraghazra/gi
 
 ## How can I contact you?
 
-You can send me a direct message on [discord](#more-about-me "Look at \'Social media\' for my Discord name + tag"), send me a YouTube comment or shoot me an email to `TheHDCrafterGaming@gmail.com`.
+You can send me a direct message on Discord, send me a YouTube comment or shoot me an email to `TheHDCrafterGaming@gmail.com`.  
+If you cannot direct message me on Discord then you can find me in the [YAGPDB Community & Support](https://discord.gg/4uY54rw) and [Chill and Play](https://discord.gg/GRns3fg) server where you ping me.  
+<img src="https://url.wtf/api/banners/user/268748318664949760" width="40%"></img>
