@@ -91,5 +91,5 @@ Github stats made with [Anurag's GitHub stats](https://github.com/anuraghazra/gi
 ## How can I contact you?
 
 You can send me a direct message on Discord, send me a YouTube comment or shoot me an email to `TheHDCrafterGaming@gmail.com`.  
-If you cannot direct message me on Discord then you can find me in the [YAGPDB Community & Support](https://discord.gg/4uY54rw) and [Chill and Play](https://discord.gg/GRns3fg) server where you ping me.  
+If you cannot direct message me on Discord then you can find me in the [YAGPDB Community & Support](https://discord.gg/4uY54rw) and [Chill and Play](https://discord.gg/GRns3fg) server where you can ping me.  
 <img src="https://url.wtf/api/banners/user/268748318664949760" width="40%"></img>
