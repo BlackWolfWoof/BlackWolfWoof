@@ -52,7 +52,7 @@ Platform|Name|Link to profile|Active
 **Coub**|`Black Wolf` (BlackWolfWoof)|[Profile](https://coub.com/blackwolfwoof)|❌
 **Xbox Live**|`TheHDCrafterYT`|[Profile](https://account.xbox.com/en-US/Profile?gamerTag=TheHDCrafterYT)|❌
 **Minecraft**|`TheHDCrafter_YT`||❌
-**osu!**|`TheHDCrafter`|[Profile](https://osu.ppy.sh/users/16069717)|❌
+**osu!**|`TheHDCrafter`|[Profile](https://osu.ppy.sh/users/16069717)|✅
 **Deviantart**|`BlackWolfWoof`|[Profile](https://www.deviantart.com/blackwolfwoof)|❌
 **Furaffinity**|`BlackWolfWoof`|[Profile](https://www.furaffinity.net/user/blackwolfwoof/)|✅
 **Google Site**||[Website](https://sites.google.com/site/thehdcraftergaming/)|❌
