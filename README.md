@@ -44,22 +44,23 @@ Platform|Name|Link to profile|Active
 ---|---|---|---  
 **Discord**|`Black Wolf#0001`|[Server](https://discord.gg/GRns3fg)|✅
 **YouTube**|`Black Wolf`|[Channel](https://www.youtube.com/BlackWolfWoof)|✅
-**Twitter**|`Black Wolf` (BlackWolfWoof)|[Profile](https://twitter.com/BlackWolfWoof)|❌
-**Mastodon**|`Black Wolf` (`@blackwolf@wuff.space`)|[Profile](https://wuff.space/@blackwolf)|✅
-**Twitch**|`blackwolfwoof`|[Channel](https://www.twitch.tv/blackwolfwoof)|❌
-**Reddit**|`TheHDCrafter_YT`|[Profile](https://www.reddit.com/u/TheHDCrafter_YT)|✅
-**Steam**|`Black Wolf`|[Profile](https://steamcommunity.com/profiles/76561199075878744)|❌
-**Disqus**|`HDCrafter`||❌
+**Furaffinity**|`BlackWolfWoof`|[Profile](https://www.furaffinity.net/user/blackwolfwoof/)|✅
 **Coub**|`Black Wolf` (BlackWolfWoof)|[Profile](https://coub.com/blackwolfwoof)|✅
+**Mastodon**|`Black Wolf` (`@blackwolf@wuff.space`)|[Profile](https://wuff.space/@blackwolf)|✅
+**Reddit**|`TheHDCrafter_YT`|[Profile](https://www.reddit.com/u/TheHDCrafter_YT)|✅
+**Twitch**|`blackwolfwoof`|[Channel](https://www.twitch.tv/blackwolfwoof)|❌
+**Steam**|`Black Wolf`|[Profile](https://steamcommunity.com/profiles/76561199075878744)|❌
 **Xbox Live**|`BlackWolf7860`|[Profile](https://account.xbox.com/en-US/Profile?gamerTag=BlackWolf7860)|❌
-**Minecraft**|`BlackWolfWoof`||✅
+**Minecraft**|`BlackWolfWoof`||❌
 **osu!**|`TheHDCrafter`|[Profile](https://osu.ppy.sh/users/16069717)|❌
 **Deviantart**|`BlackWolfWoof`|[Profile](https://www.deviantart.com/blackwolfwoof)|❌
-**Furaffinity**|`BlackWolfWoof`|[Profile](https://www.furaffinity.net/user/blackwolfwoof/)|✅
-**Google Site**||[Website](https://sites.google.com/site/thehdcraftergaming/)|💀
-**VRChat**|`BlackWolfWoof`|[Profile](https://vrchat.com/home/user/usr_bd2c6961-00a7-474c-a8d4-cd3cac8d7a2d)|💀
+**Twitter**|`Black Wolf` (BlackWolfWoof)|[Profile](https://twitter.com/BlackWolfWoof)|❌
 **Pinterest**|`Black Wolf` (BlackWolfWoof)|[Profile](https://www.pinterest.de/BlackWolfWoof/)|❌
 **Trello**|`Black Wolf` (blackwolfwoof)|[Profile](https://trello.com/blackwolfwoof)|❌
+**Disqus**|`HDCrafter`||💀
+**VRChat**|`BlackWolfWoof`|[Profile](https://vrchat.com/home/user/usr_bd2c6961-00a7-474c-a8d4-cd3cac8d7a2d)|💀
+**Google Site**||Website|💀
+**Mediafire**||Account|💀
 </details>
 
 
@@ -75,7 +76,7 @@ Hugging and cuddling is always allowed. He also bites bad people and protects ot
 - **About:** This fursona is a representation of my real me and also of the one I'd like to be. It can vary and change over time as it represents myself.
 I chose the species & name because my I like wolves. I also like the darkness & the color black and thats why I decided to also include that in my name to make it more unique.  
 - **Pic:**  
-<img src="https://cdn.discordapp.com/attachments/650634380049645583/874232094996447282/Fursona_2.png" alt="drawing" width="250"/>
+<img src="https://cdn.discordapp.com/attachments/597354188045025280/1079011833156997220/Fursona_fanart_by_Eaumi_bg.png" alt="drawing" width="250"/>
 
 </details>
 
