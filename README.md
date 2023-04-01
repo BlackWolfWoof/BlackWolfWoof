@@ -46,7 +46,7 @@ Platform|Name|Link to profile|Active
 **YouTube**|`Black Wolf`|[Channel](https://www.youtube.com/BlackWolfWoof)|✅
 **Furaffinity**|`BlackWolfWoof`|[Profile](https://www.furaffinity.net/user/blackwolfwoof/)|✅
 **Coub**|`Black Wolf` (BlackWolfWoof)|[Profile](https://coub.com/blackwolfwoof)|✅
-**Mastodon**|`Black Wolf` (`@blackwolf@wuff.space`)|[Profile](https://wuff.space/@blackwolf)|✅
+**Mastodon**|`Black Wolf` (`@blackwolf@vulpine.club`)|[Profile](https://vulpine.club/@blackwolf)|✅
 **Reddit**|`TheHDCrafter_YT`|[Profile](https://www.reddit.com/u/TheHDCrafter_YT)|✅
 **Twitch**|`blackwolfwoof`|[Channel](https://www.twitch.tv/blackwolfwoof)|❌
 **Steam**|`Black Wolf`|[Profile](https://steamcommunity.com/profiles/76561199075878744)|❌
@@ -57,6 +57,7 @@ Platform|Name|Link to profile|Active
 **Twitter**|`Black Wolf` (BlackWolfWoof)|[Profile](https://twitter.com/BlackWolfWoof)|❌
 **Pinterest**|`Black Wolf` (BlackWolfWoof)|[Profile](https://www.pinterest.de/BlackWolfWoof/)|❌
 **Trello**|`Black Wolf` (blackwolfwoof)|[Profile](https://trello.com/blackwolfwoof)|❌
+**Mastodon** (wuff.space)|`Black Wolf` (`@blackwolf@wuff.space`)|[Profile](https://wuff.space/@blackwolf)|💀
 **Disqus**|`HDCrafter`||💀
 **VRChat**|`BlackWolfWoof`|[Profile](https://vrchat.com/home/user/usr_bd2c6961-00a7-474c-a8d4-cd3cac8d7a2d)|💀
 **Google Site**||Website|💀
