@@ -1,6 +1,10 @@
 <!--
 Ah hello and welcome to my profile :)
 You can do the same for your github profile by creating a repository with the name of your account. Thanks for stopping by :)
+
+Mastodon verification
+<a rel="me" href="https://vulpine.club/@blackwolf">Mastodon</a>
+
 -->
 
 
@@ -47,7 +51,7 @@ Platform|Name|Link to profile|Active
 **YouTube**|`Black Wolf`|[Channel](https://www.youtube.com/BlackWolfWoof)|✅
 **Furaffinity**|`BlackWolfWoof`|[Profile](https://www.furaffinity.net/user/blackwolfwoof/)|✅
 **Coub**|`Black Wolf` (BlackWolfWoof)|[Profile](https://coub.com/blackwolfwoof)|✅
-**Mastodon**|`Black Wolf` (`@blackwolf@vulpine.club`)|<a rel="me" href="https://vulpine.club/@blackwolf">Mastodon</a>|✅
+**Mastodon**|`Black Wolf` (`@blackwolf@vulpine.club`)|[Profile](https://vulpine.club/@blackwolf)|✅
 **Reddit**|`TheHDCrafter_YT`|[Profile](https://www.reddit.com/u/TheHDCrafter_YT)|✅
 **Twitch**|`blackwolfwoof`|[Channel](https://www.twitch.tv/blackwolfwoof)|❌
 **Steam**|`Black Wolf`|[Profile](https://steamcommunity.com/profiles/76561199075878744)|❌
