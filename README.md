@@ -57,7 +57,7 @@ Platform|Name|Link to profile|Active
 **Twitter**|`Black Wolf` (BlackWolfWoof)|[Profile](https://twitter.com/BlackWolfWoof)|❌
 **Pinterest**|`Black Wolf` (BlackWolfWoof)|[Profile](https://www.pinterest.de/BlackWolfWoof/)|❌
 **Trello**|`Black Wolf` (blackwolfwoof)|[Profile](https://trello.com/blackwolfwoof)|❌
-**Mastodon**|`Black Wolf` (`@blackwolf@vulpine.club`)|[Profile](https://vulpine.club/@blackwolf)|💀
+**Mastodon** (vulpine.club)|`Black Wolf` (`@blackwolf@vulpine.club`)|[Profile](https://vulpine.club/@blackwolf)|💀
 **Mastodon** (wuff.space)|`Black Wolf` (`@blackwolf@wuff.space`)|[Profile](https://wuff.space/@blackwolf)|💀
 **Disqus**|`HDCrafter`||💀
 **VRChat**|`BlackWolfWoof`|[Profile](https://vrchat.com/home/user/usr_bd2c6961-00a7-474c-a8d4-cd3cac8d7a2d)|💀
