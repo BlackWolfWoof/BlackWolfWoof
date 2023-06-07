@@ -42,16 +42,16 @@ Year|Name|Nickname|Reason why I changed it
 
 Platform|Name|Link to profile|Active  
 ---|---|---|---  
-**Discord**|`Black Wolf#0001`|[Server](https://discord.gg/GRns3fg)|✅
+**Discord**|`Black Wolf` (blackwolfwoof)|[Server](https://discord.gg/GRns3fg)|✅
 **YouTube**|`Black Wolf`|[Channel](https://www.youtube.com/BlackWolfWoof)|✅
 **Furaffinity**|`BlackWolfWoof`|[Profile](https://www.furaffinity.net/user/blackwolfwoof/)|✅
 **Coub**|`Black Wolf` (BlackWolfWoof)|[Profile](https://coub.com/blackwolfwoof)|✅
 **Mastodon**|`Black Wolf` (`@blackwolf@meow.social`)|[Profile](https://meow.social/@blackwolf)|✅
 **Reddit**|`TheHDCrafter_YT`|[Profile](https://www.reddit.com/u/TheHDCrafter_YT)|✅
+**Minecraft**|`BlackWolfWoof`||✅
 **Twitch**|`blackwolfwoof`|[Channel](https://www.twitch.tv/blackwolfwoof)|❌
 **Steam**|`Black Wolf`|[Profile](https://steamcommunity.com/profiles/76561199075878744)|❌
 **Xbox Live**|`BlackWolf7860`|[Profile](https://account.xbox.com/en-US/Profile?gamerTag=BlackWolf7860)|❌
-**Minecraft**|`BlackWolfWoof`||❌
 **osu!**|`TheHDCrafter`|[Profile](https://osu.ppy.sh/users/16069717)|❌
 **Deviantart**|`BlackWolfWoof`|[Profile](https://www.deviantart.com/blackwolfwoof)|❌
 **Twitter**|`Black Wolf` (BlackWolfWoof)|[Profile](https://twitter.com/BlackWolfWoof)|❌
