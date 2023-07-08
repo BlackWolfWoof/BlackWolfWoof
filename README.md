@@ -53,9 +53,9 @@ Platform|Name|Link to profile|Active
 **Xbox Live**|`BlackWolf7860`|[Profile](https://account.xbox.com/en-US/Profile?gamerTag=BlackWolf7860)|❌
 **osu!**|`TheHDCrafter`|[Profile](https://osu.ppy.sh/users/16069717)|❌
 **Deviantart**|`BlackWolfWoof`|[Profile](https://www.deviantart.com/blackwolfwoof)|❌
-**Twitter**|`Black Wolf` (BlackWolfWoof)|[Profile](https://twitter.com/BlackWolfWoof)|❌
 **Pinterest**|`Black Wolf` (BlackWolfWoof)|[Profile](https://www.pinterest.de/BlackWolfWoof/)|❌
 **Trello**|`Black Wolf` (blackwolfwoof)|[Profile](https://trello.com/blackwolfwoof)|❌
+**Twitter**|`Black Wolf` (BlackWolfWoof)|[Profile](https://twitter.com/BlackWolfWoof)|💀
 **Reddit**|`TheHDCrafter_YT`|[Profile](https://www.reddit.com/u/TheHDCrafter_YT)|💀
 **Mastodon** (vulpine.club)|`Black Wolf` (`@blackwolf@vulpine.club`)|[Profile](https://vulpine.club/@blackwolf)|💀
 **Mastodon** (wuff.space)|`Black Wolf` (`@blackwolf@wuff.space`)|[Profile](https://wuff.space/@blackwolf)|💀
