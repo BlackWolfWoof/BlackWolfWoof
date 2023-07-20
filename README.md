@@ -47,22 +47,22 @@ Platform|Name|Link to profile|Active
 **Furaffinity**|`BlackWolfWoof`|[Profile](https://www.furaffinity.net/user/blackwolfwoof/)|✅
 **Coub**|`Black Wolf` (BlackWolfWoof)|[Profile](https://coub.com/blackwolfwoof)|✅
 **Mastodon**|`Black Wolf` (`@blackwolf@meow.social`)|[Profile](https://meow.social/@blackwolf)|✅
-**Minecraft**|`BlackWolfWoof`||✅
+**Minecraft**|`BlackWolfWoof`||❌
 **Twitch**|`blackwolfwoof`|[Channel](https://www.twitch.tv/blackwolfwoof)|❌
 **Steam**|`Black Wolf`|[Profile](https://steamcommunity.com/profiles/76561199075878744)|❌
 **Xbox Live**|`BlackWolf7860`|[Profile](https://account.xbox.com/en-US/Profile?gamerTag=BlackWolf7860)|❌
 **osu!**|`TheHDCrafter`|[Profile](https://osu.ppy.sh/users/16069717)|❌
 **Deviantart**|`BlackWolfWoof`|[Profile](https://www.deviantart.com/blackwolfwoof)|❌
-**Pinterest**|`Black Wolf` (BlackWolfWoof)|[Profile](https://www.pinterest.de/BlackWolfWoof/)|❌
 **Trello**|`Black Wolf` (blackwolfwoof)|[Profile](https://trello.com/blackwolfwoof)|❌
+**Pinterest**|`Black Wolf` (BlackWolfWoof)|[Profile](https://www.pinterest.de/BlackWolfWoof/)|💀
 **Twitter**|`Black Wolf` (BlackWolfWoof)|[Profile](https://twitter.com/BlackWolfWoof)|💀
-**Reddit**|`TheHDCrafter_YT`|[Profile](https://www.reddit.com/u/TheHDCrafter_YT)|💀
+**Reddit**|`TheHDCrafter_YT`||💀
 **Mastodon** (vulpine.club)|`Black Wolf` (`@blackwolf@vulpine.club`)|[Profile](https://vulpine.club/@blackwolf)|💀
 **Mastodon** (wuff.space)|`Black Wolf` (`@blackwolf@wuff.space`)|[Profile](https://wuff.space/@blackwolf)|💀
 **Disqus**|`HDCrafter`||💀
 **VRChat**|`BlackWolfWoof`||💀
-**Google Site**||Website|💀
-**Mediafire**||Account|💀
+**Google Site**|||💀
+**Mediafire**|||💀
 </details>
 
 
@@ -94,5 +94,6 @@ Github stats made with [Anurag's GitHub stats](https://github.com/anuraghazra/gi
 
 ## How can I contact you?
 
-You can send me a direct message on Discord, send me a YouTube comment or shoot me an email to `TheHDCrafterGaming@gmail.com`.  
+You can send me a direct message on Discord or Mastodon.  
 If you cannot direct message me on Discord then you can find me in the [YAGPDB Community & Support](https://discord.gg/4uY54rw) and [Chill and Play](https://discord.gg/GRns3fg) server where you can ping me.  
+**I do not accept friend requests if i do not know you.**  
