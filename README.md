@@ -94,6 +94,6 @@ Github stats made with [Anurag's GitHub stats](https://github.com/anuraghazra/gi
 
 ## How can I contact you?
 
-You can send me a direct message on Discord or Mastodon.  
+You can send me a direct message on Discord, Mastodon or email me `blackwolfwoof.mcbt9@aleeas.com`.  
 If you cannot direct message me on Discord then you can find me in the [YAGPDB Community & Support](https://discord.gg/4uY54rw) and [Chill and Play](https://discord.gg/GRns3fg) server where you can ping me.  
 **I do not accept friend requests if i do not know you.**  
