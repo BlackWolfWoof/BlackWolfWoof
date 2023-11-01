@@ -56,7 +56,7 @@ Platform|Name|Link to profile|Active
 **Deviantart**|`BlackWolfWoof`|[Profile](https://www.deviantart.com/blackwolfwoof)|❌
 **Trello**|`Black Wolf` (blackwolfwoof)|[Profile](https://trello.com/blackwolfwoof)|❌
 **Pinterest**|`Black Wolf` (BlackWolfWoof)||💀
-**Twitter**|`Black Wolf` (BlackWolfWoof)|[Profile](https://twitter.com/BlackWolfWoof)|💀
+**Twitter**|`Black Wolf` (BlackWolfWoof)||💀
 **Reddit**|`TheHDCrafter_YT`||💀
 **Mastodon** (vulpine.club)|`Black Wolf` (`@blackwolf@vulpine.club`)||💀
 **Mastodon** (wuff.space)|`Black Wolf` (`@blackwolf@wuff.space`)||💀
