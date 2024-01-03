@@ -49,6 +49,7 @@ Platform|Name|Link to profile|Active
 **Minecraft**|`BlackWolfWoof`||✅
 **Steam**|`Black Wolf`|[Profile](https://steamcommunity.com/profiles/76561199075878744)|✅
 **RecRoom**|`Black Wolf` (`@blackwolfwoof`)|[Profile](https://rec.net/user/blackwolfwoof)|✅
+**Beatsaber**|`BlackWolf`|[Profile on beatleader.xyz](https://beatleader.xyz/u/284259)|✅
 **Resonite**|`BlackWolfWoof`||✅
 **Bluesky**|`Black Wolf` (`@blackwolfwoof.com`)|[Profile](https://bsky.app/profile/blackwolfwoof.com)|❌
 **Coub**|`Black Wolf` (BlackWolfWoof)|[Profile](https://coub.com/blackwolfwoof)|❌
