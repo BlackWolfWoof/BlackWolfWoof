@@ -45,12 +45,14 @@ Platform|Name|Link to profile|Active
 **Discord**|`Black Wolf` (blackwolfwoof)|[Server](https://discord.gg/GRns3fg)|✅
 **YouTube**|`Black Wolf`|[Channel](https://www.youtube.com/BlackWolfWoof)|✅
 **Furaffinity**|`BlackWolfWoof`|[Profile](https://www.furaffinity.net/user/blackwolfwoof/)|✅
-**Coub**|`Black Wolf` (BlackWolfWoof)|[Profile](https://coub.com/blackwolfwoof)|✅
 **Mastodon**|`Black Wolf` (`@blackwolf@meow.social`)|[Profile](https://meow.social/@blackwolf)|✅
-**Bluesky**|`Black Wolf` (`@blackwolfwoof.com`)|[Profile](https://bsky.app/profile/blackwolfwoof.com)|✅
-**Minecraft**|`BlackWolfWoof`||❌
+**Minecraft**|`BlackWolfWoof`||✅
+**Steam**|`Black Wolf`|[Profile](https://steamcommunity.com/profiles/76561199075878744)|✅
+**RecRoom**|`Black Wolf` (`@blackwolfwoof`)|[Profile](https://rec.net/user/blackwolfwoof)|✅
+**Resonite**|`BlackWolfWoof`||✅
+**Bluesky**|`Black Wolf` (`@blackwolfwoof.com`)|[Profile](https://bsky.app/profile/blackwolfwoof.com)|❌
+**Coub**|`Black Wolf` (BlackWolfWoof)|[Profile](https://coub.com/blackwolfwoof)|❌
 **Twitch**|`blackwolfwoof`|[Channel](https://www.twitch.tv/blackwolfwoof)|❌
-**Steam**|`Black Wolf`|[Profile](https://steamcommunity.com/profiles/76561199075878744)|❌
 **Xbox Live**|`BlackWolf7860`|[Profile](https://account.xbox.com/en-US/Profile?gamerTag=BlackWolf7860)|❌
 **osu!**|`TheHDCrafter`|[Profile](https://osu.ppy.sh/users/16069717)|❌
 **Deviantart**|`BlackWolfWoof`|[Profile](https://www.deviantart.com/blackwolfwoof)|❌
