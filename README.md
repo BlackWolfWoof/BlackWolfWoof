@@ -50,7 +50,8 @@ Platform|Name|Link to profile|Active
 **Steam**|`Black Wolf`|[Profile](https://steamcommunity.com/profiles/76561199075878744)|✅
 **RecRoom**|`Black Wolf` (`@blackwolfwoof`)|[Profile](https://rec.net/user/blackwolfwoof)|✅
 **Beatsaber**|`BlackWolf`|[Profile on beatleader.xyz](https://beatleader.xyz/u/284259)|✅
-**Resonite**|`BlackWolfWoof`||✅
+**VRChat**|`BlackWolfWoof`|[Profile](https://vrchat.com/home/user/usr_0e256767-1f18-48c4-aa07-71ff8f3b1ad4)|✅
+**Resonite**|`BlackWolfWoof`||❌
 **Bluesky**|`Black Wolf` (`@blackwolfwoof.com`)|[Profile](https://bsky.app/profile/blackwolfwoof.com)|❌
 **Coub**|`Black Wolf` (BlackWolfWoof)|[Profile](https://coub.com/blackwolfwoof)|❌
 **Twitch**|`blackwolfwoof`|[Channel](https://www.twitch.tv/blackwolfwoof)|❌
@@ -64,7 +65,6 @@ Platform|Name|Link to profile|Active
 **Mastodon** (vulpine.club)|`Black Wolf` (`@blackwolf@vulpine.club`)||💀
 **Mastodon** (wuff.space)|`Black Wolf` (`@blackwolf@wuff.space`)||💀
 **Disqus**|`HDCrafter`||💀
-**VRChat**|`BlackWolfWoof`||💀
 **Google Site**|||💀
 **Mediafire**|||💀
 </details>
