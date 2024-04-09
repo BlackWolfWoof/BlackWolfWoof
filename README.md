@@ -46,11 +46,11 @@ Platform|Name|Link to profile|Active
 **YouTube**|`Black Wolf`|[Channel](https://www.youtube.com/BlackWolfWoof)|✅
 **Furaffinity**|`BlackWolfWoof`|[Profile](https://www.furaffinity.net/user/blackwolfwoof/)|✅
 **Mastodon**|`Black Wolf` (`@blackwolf@meow.social`)|[Profile](https://meow.social/@blackwolf)|✅
-**Minecraft**|`BlackWolfWoof`||✅
 **Steam**|`Black Wolf`|[Profile](https://steamcommunity.com/profiles/76561199075878744)|✅
-**RecRoom**|`Black Wolf` (`@blackwolfwoof`)|[Profile](https://rec.net/user/blackwolfwoof)|✅
-**Beatsaber**|`BlackWolf`|[Profile on beatleader.xyz](https://beatleader.xyz/u/284259)|✅
 **VRChat**|`BlackWolfWoof`|[Profile](https://vrchat.com/home/user/usr_0e256767-1f18-48c4-aa07-71ff8f3b1ad4)|✅
+**Minecraft**|`BlackWolfWoof`||❌
+**RecRoom**|`Black Wolf` (`@blackwolfwoof`)|[Profile](https://rec.net/user/blackwolfwoof)|❌
+**Beatsaber**|`BlackWolf`|[Profile on beatleader.xyz](https://beatleader.xyz/u/284259)|❌
 **Resonite**|`BlackWolfWoof`||❌
 **Bluesky**|`Black Wolf` (`@blackwolfwoof.com`)|[Profile](https://bsky.app/profile/blackwolfwoof.com)|❌
 **Coub**|`Black Wolf` (BlackWolfWoof)|[Profile](https://coub.com/blackwolfwoof)|❌
