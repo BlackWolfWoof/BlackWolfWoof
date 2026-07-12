@@ -41,9 +41,10 @@ Platform|Name|Link to profile|Active
 **Signal**|See Website|[Website](https://blackwolfwoof.com/.well-known/security.txt)|✅
 **E-Mail**|See Website|[Website](https://blackwolfwoof.com/.well-known/security.txt)|✅
 **Mastodon**|`Black Wolf` (`@blackwolf@meow.social`)|[Profile](https://meow.social/@blackwolf)|✅
-**Discord**|`Black Wolf` (blackwolfwoof)|[User](https://discord.com/users/268748318664949760)|✅
+**Fluxer**|`Black Wolf` (`blackwolfwoof#5119`)||✅
 **YouTube**|`Black Wolf`|[Channel](https://www.youtube.com/BlackWolfWoof)|✅
 **VRChat**|`BlackWolfWoof`|[Profile](https://vrchat.com/home/user/usr_0e256767-1f18-48c4-aa07-71ff8f3b1ad4)|✅
+**Discord**|`Black Wolf` (blackwolfwoof)|[User](https://discord.com/users/268748318664949760)|🏃‍➡️ Leaving
 **Steam**|`Black Wolf`|[Profile](https://steamcommunity.com/profiles/76561199075878744)|❌
 **Furaffinity**|`BlackWolfWoof`|[Profile](https://www.furaffinity.net/user/blackwolfwoof/)|❌
 **Minecraft**|`BlackWolfWoof`||❌
@@ -92,6 +93,6 @@ Github stats made with [Anurag's GitHub stats](https://github.com/anuraghazra/gi
 
 ## How can I contact you?
 
-You can send me a direct message on Matrix, Signal, Mastodon, E-Mail or Discord.
+You can send me a direct message on Matrix, Signal, Mastodon, E-Mail or Fluxer ~~Discord~~.
 See https://blackwolfwoof.com/.well-known/security.txt for up to date and secure contact information.
-**I do not accept Discord friend requests if i do not know you.**
+~~**I do not accept Discord friend requests if i do not know you.**~~
