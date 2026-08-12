@@ -75,7 +75,7 @@ Platform|Name|Link to profile|Active
 - **Name:** Black Wolf  
 - **Species:** Wagon (Wolf Dragon)  
 - **Gender:** None  
-- **Personality:** A friendly creature, that likes to help people. I bites bad people and protects others :3
+- **Personality:** A friendly creature, that likes to help people. I bite bad people and protects others :3
 - **About:** This fursona is a representation of my real me and also of the one I'd like to be. It can vary and change over time, like i do.
 I chose the species & name because my I like wolves and dragons. I also like the darkness & the color black and thats why I decided to also include that in my name to make it more unique.  
 
